@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools" android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content" android:background="@drawable/fondo">
+
+    <TextView
+            android:id="@+id/textViewDatos"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:textSize="20sp"
+            android:padding="20dp"
+            android:text="cod"
+            android:textColor="#000000" android:background="@drawable/fondo_cod" android:textAlignment="textEnd"/>
+
+    <TextView
+            android:text="nombre"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:padding="20dp"
+            android:id="@+id/textViewDatos2"
+            android:textColor="#000000"/>
+    <TextView
+            android:id="@+id/textViewDatos3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:padding="20dp"
+            android:text="12€"
+            android:textColor="#000000"/>
+
+</LinearLayout>

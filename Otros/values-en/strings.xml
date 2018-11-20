@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marcodona</string>
+    <string name="nav_header_title">Marcodona</string>
+    <string name="nav_header_subtitle">Marco Jiménez Ureña</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="menu_catalogo">Catalogue</string>
+    <string name="menu_comprado">Sold</string>
+    <string name="menu_add_producto">Manage products</string>
+    <string name="add_producto">ADD PRODUCT</string>
+    <string name="delete_producto">DELETE PRODUCT</string>
+    <string name="add_btn">ADD</string>
+    <string name="delete_btn">DELETE</string>
+    <string name="nombre">Name</string>
+    <string name="codigo">Code</string>
+    <string name="precio">Price</string>
+    <string name="clear_list">CLEAR SOLD LIST</string>
+    <string name="btn_clear_list">Clear list</string>
+    <string name="btn_clear">Clear list</string>
+    <string name="columnas_comprados">Code - Name - Price - Amount</string>
+</resources>
